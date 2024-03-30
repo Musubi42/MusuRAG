@@ -1,0 +1,4 @@
+.env
+venv/
+roulerPourAiderRAG.py
+data_roulerPourAiderRAG/
